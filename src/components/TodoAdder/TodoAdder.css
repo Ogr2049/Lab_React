@@ -1,0 +1,32 @@
+.input{
+    display: block;
+    width: 320px;
+    background: none;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.input::placeholder{
+    color: white;
+    padding: 12px 8px;
+}
+
+.btn{
+    display: block;
+    background: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    height: fit-content;
+    padding: 12px 20px;
+}
+
+.form{
+    display: flex;
+    column-gap: 10px;
+    margin-bottom: 40px;
+}
+
+.adder{
+
+}

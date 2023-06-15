@@ -1,0 +1,9 @@
+.todo{
+    display: block;
+    padding: 12px 8px;
+    background: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 320px;
+    margin-bottom: 12px;
+}
